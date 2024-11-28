@@ -124,6 +124,8 @@ From the rules in force
 
 Or for purposes based on the consent of the interested party, will be kept until the consent is revoked A erice of the retention period, your personal data will be canceled or consensual in a form that does not allow
 
+For Account deletion, There is a button in edit profile screen to delete account, you can use that button to delete your account.
+
 8. Rights of the interested ty
 
 We need to exercise certain information with reference to the Personal Data processed by the Tyrolean, in particular, or be informed about the processing of your Personal Data or revoke your consent at any time or limit the processing of your Personal Data
